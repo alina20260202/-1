@@ -1,4 +1,4 @@
-# -1
+# Асс-1
 #include <iostream>
  
  // сумма
